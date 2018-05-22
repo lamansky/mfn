@@ -1,0 +1,24 @@
+{
+  "name": "mfn",
+  "version": "0.0.0",
+  "description": "Coming soon.",
+  "keywords": [],
+  "author": "John Lamansky",
+  "license": "MIT",
+  "homepage": "https://github.com/lamansky/mfn",
+  "repository": "lamansky/mfn",
+  "main": "index.js",
+  "files": [],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "cached-function": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-lamansky": "^1.0.0"
+  },
+  "eslintConfig": {
+    "extends": "lamansky"
+  }
+}
